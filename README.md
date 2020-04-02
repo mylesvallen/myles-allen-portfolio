@@ -6,8 +6,6 @@
   </a>
 </p>
 
-### Public site to display coding skills, resume, projects, etc. 
-
 ![Site](https://github.com/mylesvallen/mylesvallen.github.io/blob/master/myles-allen-portfolio.png)
 
 
@@ -15,6 +13,7 @@
 
 
 👤 **Myles Allen **
+Public site to display coding skills, resume, projects, etc. 
 
 * Website: https://mylesallen.com/
 * Twitter: [@myleswebdev](https://twitter.com/myleswebdev)
