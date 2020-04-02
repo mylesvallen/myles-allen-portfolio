@@ -15,3 +15,5 @@ Professional Portfolio website that give users access to view/download resume, s
 * Twitter: [@myleswebdev](https://twitter.com/myleswebdev)
 * Github: [@mylesvallen](https://github.com/mylesvallen)
 * LinkedIn: [@mylesallen](https://linkedin.com/in/mylesallen)
+* GitConnected: [@mylesvallen](https://gitconnected.com/mylesvallen/resume)
+
