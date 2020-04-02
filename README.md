@@ -8,7 +8,7 @@
 
 ### Public site to display coding skills, resume, projects, etc. 
 
-
+![Site](https://github.com/mylesvallen/mylesvallen.github.io/blob/master/myles-allen-portfolio.png)
 
 
 
