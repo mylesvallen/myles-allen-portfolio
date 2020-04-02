@@ -1,4 +1,5 @@
 # Welcome to Myles Allen Portfolio
+Full Stack JavaScript Developer | MERN
 Professional Portfolio website that give users access to view/download resume, skills, projects, and more insight of who am I.
 
 <br/>
