@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to Myles Allen Portfolio</h1>
-Public site to display coding skills, resume, projects, etc. 
-
+# Welcome to Myles Allen Portfolio
+Professional Portfolio website that give users access to view/download resume, skills, projects, and more insight of who am I.   
+<br/>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/myleswebdev" target="_blank">
