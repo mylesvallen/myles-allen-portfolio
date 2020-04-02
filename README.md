@@ -6,13 +6,13 @@
   </a>
 </p>
 
-> Public site to display coding skills, resume, projects, etc. 
-
-### 🏠 [Homepage](mylesallen.com | mylesvallen.github.io)
+### Public site to display coding skills, resume, projects, etc. 
 
 
 
-## Author
+
+
+
 
 👤 **Myles Allen **
 
@@ -20,10 +20,3 @@
 * Twitter: [@myleswebdev](https://twitter.com/myleswebdev)
 * Github: [@mylesvallen](https://github.com/mylesvallen)
 * LinkedIn: [@mylesallen](https://linkedin.com/in/mylesallen)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
