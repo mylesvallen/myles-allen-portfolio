@@ -8,7 +8,7 @@ Full Stack JavaScript Developer | MERN
   </a>
 </p>
 
-![Site](https://gph.is/g/ajW50Aj)
+![Site](https://media.giphy.com/media/ej1rqxJvGlKjteaFlK/giphy.gif)
 
 Professional Portfolio website that give users access to view/download resume, skills, projects, and more insight of who am I.
 <br/>
