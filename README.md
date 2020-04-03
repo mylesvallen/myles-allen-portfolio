@@ -8,7 +8,7 @@ Full Stack JavaScript Developer | MERN
   </a>
 </p>
 
-![Site](https://media.giphy.com/media/ej1rqxJvGlKjteaFlK/giphy.gif)
+![mylesallen.com](https://media.giphy.com/media/ej1rqxJvGlKjteaFlK/giphy.gif)
 
 Professional Portfolio website that give users access to view/download resume, skills, projects, and more insight of who am I.
 <br/>
