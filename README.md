@@ -8,7 +8,7 @@ Full Stack JavaScript Developer | MERN
   </a>
 </p>
 
-![Site](https://github.com/mylesvallen/mylesvallen.github.io/blob/master/myles-allen-portfolio.png)
+![Site](https://gph.is/g/ajW50Aj)
 
 Professional Portfolio website that give users access to view/download resume, skills, projects, and more insight of who am I.
 <br/>
